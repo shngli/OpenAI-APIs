@@ -3,4 +3,3 @@ SQLAlchemy
 openai 
 pillow 
 gitpython 
-praw 
