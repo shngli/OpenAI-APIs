@@ -2,7 +2,7 @@
 
 Compilation of generative NLP and image projects using OpenAI's GPT-3.5 and DALL-E APIs. 
 
-- OpenAI Completion Parameters:
+OpenAI Completion Parameters:
 
     - Model:
         - Always prefer to use the latest OpenAI model, but also consider the cost of API calls per 1000 tokens.
@@ -28,7 +28,7 @@ Compilation of generative NLP and image projects using OpenAI's GPT-3.5 and DALL
         - Negative values can be used to increase the model's likelihood of repetition in its response.
     - For complete details, refer to the [OpenAI API guide](https://platform.openai.com/docs/api-reference).
 
-- DALLE-2 Parameters:
+DALLE-2 Parameters:
     - Image API: 
         - Takes in a text prompt and returns an image that matches what is in the text prompt.
     - Image size:
