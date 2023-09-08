@@ -30,6 +30,7 @@ OpenAI Completion Parameters:
 
 
 DALLE-2 Parameters:
+
     - Image API: 
         - Takes in a text prompt and returns an image that matches what is in the text prompt.
     - Image size:
