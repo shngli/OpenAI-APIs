@@ -28,6 +28,7 @@ OpenAI Completion Parameters:
         - Negative values can be used to increase the model's likelihood of repetition in its response.
     - For complete details, refer to the [OpenAI API guide](https://platform.openai.com/docs/api-reference).
 
+
 DALLE-2 Parameters:
     - Image API: 
         - Takes in a text prompt and returns an image that matches what is in the text prompt.
