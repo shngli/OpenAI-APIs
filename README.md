@@ -1,6 +1,6 @@
 # Generative Projects with OpenAI APIs
 
-Compilation of generative NLP and image projects using OpenAI's GPT-3.5 and DALL-E APIs. 
+Compilation of simple generative NLP and image projects using OpenAI's GPT-3.5 and DALL-E APIs. 
 
 OpenAI Completion Parameters:
 
@@ -38,7 +38,6 @@ DALLE-2 Parameters:
     - N:
         - Request between 1 to 10 images via the image API
 
-Credit to Pierian Training for the hands-on training with OpenAI APIs.
+Code Status: Last updated in September 2023. OpenAI's service availability is limited in HK, and the codes in this repository will not be actively maintained inline with the latest models. I might expand the repository later with other related generative AI mini-projects eg. Langchain, Midjourney.
 
-- Read Me update: Ongoing
-- Progress: Ongoing
+Credit to Pierian Training for the hands-on training with OpenAI API services.
