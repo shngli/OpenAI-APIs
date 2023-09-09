@@ -7,6 +7,7 @@ import numpy as np
 import pandas as pd
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
+### Read CSV file containing pre-generated summary embeddings about some unicorn startups
 df = pd.read_csv('./data/unicorns_with_embeddings.csv')
 
 ### Note this function assumes we already set our Open AI key
