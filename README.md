@@ -40,4 +40,4 @@ DALLE-2 Parameters:
 
 Code Status: Last updated in September 2023. OpenAI's service availability is limited in HK, and the codes in this repository will not be actively maintained inline with the latest models. I might expand the repository later with other related generative AI mini-projects eg. Langchain, Midjourney.
 
-Credit to Pierian Training for the hands-on training with OpenAI API services.
+Credit to Pierian Training for the hands-on training with OpenAI API services and prompt engineering.
