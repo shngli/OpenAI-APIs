@@ -38,6 +38,6 @@ DALLE-2 Parameters:
     - N:
         - Request between 1 to 10 images via the image API
 
-**Code Status**: Last updated in September 2023. OpenAI's service availability is limited in HK, and the codes in this repository will not be actively maintained inline with the latest models. I might expand the repository later with other relevant generative AI tools eg. Langchain, Midjourney.
+**Code Status**: Last updated in September 2023. OpenAI's service availability is limited in HK, and the codes in this repository will not be actively maintained inline with the latest models. I might expand the repository later with other relevant generative AI tools eg. ChatGPT-4, Langchain, Midjourney.
 
 Credit to Pierian Training for the hands-on training with OpenAI API services and prompt engineering.
